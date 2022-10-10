@@ -1,16 +1,6 @@
-# multi_store_shopping_list
+# Multi Store Shopping List
 
-A new Flutter project.
+I am currently learning how to develop mobile applications in Flutter/dart. This project is for my own edification. 
 
-## Getting Started
+Goal is to create a simple shopping list application that allows users to create one list per store that they shop at.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
